@@ -18,20 +18,37 @@ E = East
 W = West
 
 BITSTRING:      DECIMAL:      Walls Present:
+
 N S E W
+
 0 0 0 0         0             (None)
+
 0 0 0 1         1             W
+
 0 0 1 0         2             E
+
 0 0 1 1         3             E, W
+
 0 1 0 0         4             S
+
 0 1 0 1         5             E, W
+
 0 1 1 0         6             S, E
+
 0 1 1 1         7             S, E, W
+
 1 0 0 0         8             N
+
 1 0 0 1         9             N, W
+
 1 0 1 0         10            N, E
+
 1 0 1 1         11            N, E, W
+
 1 1 0 0         12            N, S
+
 1 1 0 1         13            N, S, W
+
 1 1 1 0         14            N, S, E
+
 1 1 1 1         16            N, S, E, W, (All)
