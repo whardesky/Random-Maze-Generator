@@ -21,7 +21,7 @@ BITSTRING:      DECIMAL:      Walls Present:
 
 N S E W
 
-0 0 0 0         0             (None)
+0 0 0 0         0             (None);
 
 0 0 0 1         1             W
 
