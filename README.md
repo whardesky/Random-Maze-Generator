@@ -17,32 +17,32 @@ N S E W
 
 0 0 0 0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (None)
 
-0 0 0 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1             W
+0 0 0 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W
 
-0 0 1 0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2             E
+0 0 1 0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; E
 
-0 0 1 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3             E, W
+0 0 1 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; E, W
 
-0 1 0 0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4             S
+0 1 0 0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; S
 
-0 1 0 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5             E, W
+0 1 0 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; E, W
 
-0 1 1 0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 6             S, E
+0 1 1 0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; S, E
 
-0 1 1 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 7             S, E, W
+0 1 1 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 7 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; S, E, W
 
-1 0 0 0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 8             N
+1 0 0 0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 8 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; N
 
-1 0 0 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 9             N, W
+1 0 0 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 9 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; N, W
 
-1 0 1 0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 10            N, E
+1 0 1 0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 10 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; N, E
 
-1 0 1 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 11            N, E, W
+1 0 1 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 11 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; N, E, W
 
-1 1 0 0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 12            N, S
+1 1 0 0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 12 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; N, S
 
-1 1 0 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 13            N, S, W
+1 1 0 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 13 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; N, S, W
 
-1 1 1 0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 14            N, S, E
+1 1 1 0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 14 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; N, S, E
 
-1 1 1 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 16            N, S, E, W, (All)
+1 1 1 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 16 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; N, S, E, W, (All)
