@@ -9,7 +9,7 @@ The algorithm for generating a maze starts with a grid where only 2 walls are re
 
 The file format for saving the maze is just a two dimensional array of integers, where each integer is used to represent a cell and its walls. Each integer in the matrix ranges from 0 to 16. The idea behind this representation is that the walls are encoded using 4 bits, and the ingeters are just their corresponding values in decimal notation.
 
-N = North
+N = North;
 S = South
 E = East
 W = West
