@@ -11,7 +11,7 @@ The file format for saving the maze is just a two dimensional array of integers,
 
 N = North, S = South, E = East, W = West
 
-BITSTRING:      DECIMAL:      Walls Present:
+BITSTRING: &nbsp; DECIMAL:      Walls Present:
 
 N S E W
 
